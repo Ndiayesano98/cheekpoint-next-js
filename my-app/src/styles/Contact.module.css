@@ -1,0 +1,19 @@
+.main {
+    padding: 4rem 1rem;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #0070f3;
+  }
+  
+  .description {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  .description a {
+    color: #0070f3;
+  }
+  

@@ -1,0 +1,16 @@
+.main {
+    padding: 4rem 1rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #0070f3;
+    text-align: center;
+  }
+  
+  .description {
+    font-size: 1.1rem;
+    color: #555;
+    text-align: center;
+  }
+  

@@ -1,0 +1,36 @@
+.main {
+    padding: 4rem 1rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #0070f3;
+    text-align: center;
+  }
+  
+  .projects {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .project {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+  }
+  
+  .project h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .project p {
+    font-size: 1rem;
+    color: #666;
+  }
+  

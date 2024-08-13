@@ -1,0 +1,20 @@
+.main {
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    color: #0070f3;
+  }
+  
+  .description {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .profileImage {
+    border-radius: 50%;
+    margin-top: 2rem;
+  }
+  
